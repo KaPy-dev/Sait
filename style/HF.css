@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    margin: auto;
+
+}
+
+
+.mainHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
